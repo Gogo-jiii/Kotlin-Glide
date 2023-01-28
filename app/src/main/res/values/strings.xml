@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Glide</string>
+    <string name="load_image_as_bitmap">load image as bitmap</string>
+    <string name="clear_imageview">clear imageview</string>
+    <string name="load_image">load image</string>
+    <string name="description">description</string>
+</resources>
